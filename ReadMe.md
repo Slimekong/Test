@@ -2,7 +2,7 @@
 <p>Dear Reader, I am currently learning to program Mods for Minecraft. For doing that I have to practice it, that's why you are currently looking at this repository. I hope you enjoy this. The following is a list of features I want to add on my journey!</p>
 <ul>
 <li>Creative Mode Tab (Slime Icon)</li>
-<li>Item: Coloured Slime</li>
+<li>Item: Coloured Slime, Slime-emerald</li>
 <li>Coloured Slime block</li>
 <li>Recipe for everything</li>
 <li>Coloured slimes</li>
