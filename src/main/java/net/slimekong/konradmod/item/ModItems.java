@@ -14,6 +14,10 @@ public class ModItems {
 
     public static final RegistryObject<Item> SLIMECOIN = ITEMS.register("slimecoin",
             () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> BLUE_SLIME_BALL = ITEMS.register("blue_slime_ball",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }
